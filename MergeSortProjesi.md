@@ -1,5 +1,5 @@
-Merge Sort Projesi
-Proje 2
+# Merge Sort Projesi
+# Proje 2
 
 [16,21,11,8,12,22]
      |	      |
@@ -22,4 +22,4 @@ Proje 2
       	    V             
     [8,11,12,16,21,22]
 
-Big-O gösterimi = O(nlogn)
+**Big-O gï¿½sterimi = O(nlogn)**
