@@ -9,7 +9,7 @@
    IV-[2,6,16,18,22,27]  
    V-[2,6,16,18,22,27]  
 
-**2-** Big-O gosterimi O(n2) 
+**2-** Big-O gosterimi O(n^2) 
 
 **4-**Dizi siralandiktan sonra 18 sayisi Average case kapsamina girer.
 
