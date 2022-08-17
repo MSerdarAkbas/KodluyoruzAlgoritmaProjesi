@@ -12,7 +12,7 @@ root 6'dir. root'un saginda 8 bulunur. Solunda 4 bulunur
 
 		    4		        8
 
-       2        5	    7	    9
+       2        5	     7	    9
 
     1       3
 
