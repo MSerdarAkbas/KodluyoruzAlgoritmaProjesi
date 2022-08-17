@@ -8,9 +8,9 @@ root 6'dir. root'un saginda 8 bulunur. Solunda 4 bulunur
 2 nin saginda 3 bulunur. Solunda 1 bulunur.
 1 in solunda 0 bulunur.
 
-			        6
+		       6
 
-		    4		        8
+	     4		        8
 
        2        5	     7	    9
 
